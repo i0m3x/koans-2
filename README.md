@@ -31,3 +31,7 @@ Function.prototype.bind = function(context) {
         fn.apply(context, arguments);
     };
 };
+
+https://api.qunitjs.com/assert/ok/
+
+the latest the greatest
