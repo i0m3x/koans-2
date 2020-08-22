@@ -34,4 +34,4 @@ Function.prototype.bind = function(context) {
 
 https://api.qunitjs.com/assert/ok/
 
-the latest the greatest
+the latest the greatest from across the silver sea:  Xodacidal
